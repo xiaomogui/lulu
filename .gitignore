@@ -19,3 +19,10 @@
 *.exe
 *.out
 *.app
+
+# 禁止上传VS2005相关的文件
+debug/
+
+# 禁止上传python的一些文件
+*.pyc
+.idea/
